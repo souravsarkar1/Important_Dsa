@@ -22,5 +22,5 @@ function merge(left, right) {
     return res;
 }
 
-let ans = mergeSort([5,4,3,2,1]);
+let ans = mergeSort([5,4,3,2,1,9999]);
 console.log(ans);
